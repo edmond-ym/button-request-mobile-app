@@ -1,0 +1,7 @@
+{
+  "name": "Button Request",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
