@@ -8,9 +8,7 @@ Welcome to the Button Request System PWA! This Progressive Web App is designed t
 3. [Technology Stack](#technology-stack)
 4. [Demo](#demo)
 5. [Link to Button Request Panel](#link-to-button-request-panel)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+6. [Contact](#contact)
 
 ## Project Overview
 This PWA is part of the Button Request System, aiming to enhance staff responsiveness by allowing them to receive and manage customer requests conveniently. Users can view messages sent by customers by entering a mobile access key.
@@ -30,11 +28,6 @@ This PWA is part of the Button Request System, aiming to enhance staff responsiv
 ## Link to Button Request Panel
 [https://github.com/edmond-ym/button-request-panel](https://github.com/edmond-ym/button-request-panel)
 
-## Contributing
-Contributions are welcome! Please read the contributing guidelines for more details.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 If you have any questions or feedback, please reach out at edmond@inchoatae.com.
